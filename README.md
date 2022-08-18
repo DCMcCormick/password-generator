@@ -1,1 +1,1 @@
-# Password Generator Starter Code
+This is a password generator assignment from UT Austin Full Stack Web Development Bootcamp
